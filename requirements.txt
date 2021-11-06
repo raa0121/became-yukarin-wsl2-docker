@@ -1,0 +1,13 @@
+cupy<6.0.0
+chainer<6.0.0
+librosa<0.7.0
+numpy==1.19.5
+tqdm==4.32.1
+pysptk==0.1.17
+pyworld==0.2.10
+fastdtw==0.3.2
+matplotlib==3.1.0
+tensorflow
+tensorboard-chainer
+git+https://github.com/Hiroshiba/become-yukarin
+git+https://github.com/Hiroshiba/yukarin
